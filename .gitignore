@@ -1,3 +1,7 @@
+*.log
+*.sqlite
+*~
+
 *.py[cod]
 
 # C extensions
